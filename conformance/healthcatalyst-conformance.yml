@@ -1,0 +1,28 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.healthcatalyst.com/information-security
+standards:
+  - id: hipaa
+    conforms: true
+    evidence: HIPAA-aligned safeguards for PHI (information-security page)
+  - id: soc2-type2
+    conforms: true
+    evidence: SOC 2 Type II report issued annually (Security, Availability, Confidentiality)
+  - id: soc3
+    conforms: true
+    evidence: Publicly available SOC 3 report
+  - id: hitrust-csf
+    conforms: true
+    evidence: HITRUST CSF v9.x and r2 v11.x certifications across platforms/applications
+  - id: iso-27001
+    conforms: true
+    evidence: ISO 27001:2022 certification (Lumeon by Health Catalyst)
+  - id: iso-9001
+    conforms: true
+    evidence: ISO 9001:2015 certification (Lumeon by Health Catalyst)
+  - id: nist-csf
+    conforms: true
+    evidence: Security program built on the NIST Cybersecurity Framework
+  - id: tx-ramp
+    conforms: true
+    evidence: Texas DIR TX-RAMP Level 2 Certification

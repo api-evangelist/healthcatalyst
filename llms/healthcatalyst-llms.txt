@@ -1,0 +1,24 @@
+# Health Catalyst
+
+> Health Catalyst is a healthcare data, analytics, and AI company that helps healthcare organizations achieve measurable clinical, financial, and operational improvement. Its flagship platform, Health Catalyst Ignite, is a healthcare-specific data and analytics ecosystem built on Azure Databricks with pre-built standard APIs, healthcare data models, and self-service tools. Health Catalyst serves 1,100+ organizations. Backed in the API Evangelist network via Norwest Venture Partners.
+
+## Company
+- [Website](https://www.healthcatalyst.com/): Corporate site and product overview
+- [Documentation](https://docs.healthcatalyst.com/): User guides and developer resources
+- [Health Catalyst Ignite](https://www.healthcatalyst.com/products/health-catalyst-ignite-data-and-analytics): Data & analytics platform (pre-built standard APIs)
+- [Information Security](https://www.healthcatalyst.com/information-security): Security posture and compliance certifications
+- [Insights / Blog](https://www.healthcatalyst.com/learn/insights): Healthcare analytics articles and thought leadership
+- [Newsroom](https://www.healthcatalyst.com/newsroom): Press releases and announcements
+
+## Open Source & Packages
+- [@healthcatalyst/cashmere (npm)](https://www.npmjs.com/package/@healthcatalyst/cashmere): Cashmere Angular design system components
+- [healthcareai (PyPI)](https://pypi.org/project/healthcareai/): Healthcare machine learning toolkit for Python
+- [healthcareai (CRAN)](https://cran.r-project.org/web/packages/healthcareai/index.html): Healthcare machine learning toolkit for R
+- [GitHub organization](https://github.com/HealthCatalyst): Health Catalyst open-source repositories
+
+## Compliance
+- SOC 2 Type II, SOC 3, HITRUST CSF (v9.x / r2 v11.x), HIPAA, ISO 27001:2022, ISO 9001:2015, NIST CSF, TX-RAMP Level 2
+
+## Legal
+- [Terms & Conditions](https://www.healthcatalyst.com/terms-conditions)
+- [Privacy Policy](https://www.healthcatalyst.com/privacy-policy)

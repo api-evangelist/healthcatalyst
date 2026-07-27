@@ -1,0 +1,30 @@
+generated: '2026-07-19'
+method: searched
+source: npm, PyPI, CRAN registries + github.com/HealthCatalyst
+packages:
+  - language: javascript
+    registry: npm
+    name: "@healthcatalyst/cashmere"
+    url: https://www.npmjs.com/package/@healthcatalyst/cashmere
+    install: npm install @healthcatalyst/cashmere
+    version: 21.0.0
+    repository: https://github.com/HealthCatalyst/Fabric.Cashmere
+    description: Reusable Health Catalyst components — the Cashmere Angular design system.
+    official: true
+  - language: python
+    registry: pypi
+    name: healthcareai
+    url: https://pypi.org/project/healthcareai/
+    install: pip install healthcareai
+    version: '1.0'
+    repository: https://github.com/HealthCatalyst/healthcareai-py
+    description: Tools for healthcare machine learning (healthcare.ai) — Python toolkit.
+    official: true
+  - language: r
+    registry: cran
+    name: healthcareai
+    url: https://cran.r-project.org/web/packages/healthcareai/index.html
+    install: install.packages("healthcareai")
+    repository: https://github.com/HealthCatalyst/healthcareai-r
+    description: Tools for healthcare machine learning (healthcare.ai) — R toolkit.
+    official: true
