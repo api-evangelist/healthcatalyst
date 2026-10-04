@@ -50,7 +50,7 @@ tags:
 - Data Analytics
 - Health Data
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Population Health
 - Interoperability
 tags_raw:
@@ -62,6 +62,7 @@ tags_raw:
 - Machine Learning
 - Population Health
 - Interoperability
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
